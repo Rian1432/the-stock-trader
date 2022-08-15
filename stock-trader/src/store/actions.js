@@ -10,7 +10,7 @@ export default {
           funds: data.funds,
           stockPortifolio: data.stocksPortifolio
         })
-      }_
+      }
     })
   }
 }
